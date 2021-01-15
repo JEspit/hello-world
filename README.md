@@ -1,4 +1,4 @@
 # hello-world
 Practice Repository
-My name is Luca. I live on the second floor in an apartment. 
-I like the Spurs and the Cowboys. 
+My name is Joseph Espitia. I'm a tech writer and have just joined the team.  
+I live in San Antonio, TX and am a huge Spurs and Cowboys fan. 
